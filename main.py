@@ -1,6 +1,5 @@
-import pygame.font
-
 from balls import *
+import pygame
 
 
 class BallGame(App):

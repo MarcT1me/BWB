@@ -2,7 +2,7 @@
 
 layout(location=0) out vec4 f_color;
 
-#define BALL_LIST_SIZE 50
+#define BALL_LIST_SIZE 341
 
 struct Ball {
     vec2 pos;
